@@ -1,0 +1,10 @@
+/.vs
+/Library
+/Logs
+/obj
+/Framework_asm.csproj
+/Game_asm.csproj
+/Sample_ModuleDesign.sln
+/Temp
+/*.csproj
+/.vsconfig

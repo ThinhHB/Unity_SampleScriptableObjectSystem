@@ -1,0 +1,17 @@
+{
+    "name": "Framework_asm",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unite2017"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
