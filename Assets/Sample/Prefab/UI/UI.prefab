@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 22417224}
   - component: {fileID: 7682265101487609550}
   m_Layer: 5
-  m_Name: MissInfo
+  m_Name: EscapedInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -217,8 +217,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -92, y: -34.900024}
-  m_SizeDelta: {x: 154.80005, y: 48.9}
+  m_AnchoredPosition: {x: -104.29999, y: -34.900024}
+  m_SizeDelta: {x: 191.1, y: 48.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7682265101487609550
 MonoBehaviour:
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetVarable: {fileID: 11400000, guid: 0708ae578acc1544a9e98380059a42d6, type: 2}
   displayText: {fileID: 6325669270208709337}
-  textFormat: 'Miss: {0}'
+  textFormat: 'Escaped: {0}'
   isFailedConfig: 0
 --- !u!1 &154126
 GameObject:
@@ -752,7 +752,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -259.1001, y: -34.900024}
+  m_AnchoredPosition: {x: -282.8, y: -34.900024}
   m_SizeDelta: {x: 154.80005, y: 48.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7988999582540557620
@@ -837,7 +837,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Miss: 0'
+  m_text: 'Escaped: 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -942,7 +942,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -432.39, y: -34.900024}
+  m_AnchoredPosition: {x: -456.08994, y: -34.900024}
   m_SizeDelta: {x: 174.02, y: 48.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &7309934908798816329
