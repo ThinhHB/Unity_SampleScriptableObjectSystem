@@ -26,6 +26,10 @@ namespace RoboRyanTron.Unite2017.Events {
 				_listeners -= callback;
 		}
 
+		public void Raise() {
+			_listeners?.Invoke();
+		}
+
 		void OnDisable() {
 			// clear all references
 			_listeners = null;
